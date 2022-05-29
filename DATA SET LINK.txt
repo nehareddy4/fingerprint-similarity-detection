@@ -1,0 +1,3 @@
+DATA SET LINK: 
+https://www.kaggle.com/datasets/ruizgara/socofing
+(As GitHub cannot accept files larger than 25MB, I am posting the link to download the dataset that I’ve used for this project)
